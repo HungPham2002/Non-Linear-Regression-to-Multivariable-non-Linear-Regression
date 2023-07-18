@@ -4,3 +4,5 @@
 - Representation: Data transformation by using Label Encoding / One hot encoding, ...
 - Modeling: training and evaluation
 - Deployment
+## Important Note:
+- Degree Choice: if too simple, model would not flexible enough (underfit), if too complicate, model would overfit
