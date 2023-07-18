@@ -6,3 +6,4 @@
 - Deployment
 ## Important Note:
 - Degree Choice: if too simple, model would not flexible enough (underfit), if too complicate, model would overfit
+- ![choiceofdegree](https://drive.google.com/uc?export=view&id=1RF7FuCVyqebv3is16rPLQ0S6AahrkOec)
