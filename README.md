@@ -17,4 +17,5 @@
     * The performance metric (such as accuracy or mean squared error) is computed for each iteration.
     * The final performance measure is obtained by averaging the results from all K iterations.
     * Choose the degree which has the lowest out of sample error
+- Disadvantages: ![disadvantages](https://drive.google.com/uc?export=view&id=1Lz6QfXP0ZPYSo550ABAccfigy-nPHfiv)
    
